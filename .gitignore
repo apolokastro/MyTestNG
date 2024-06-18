@@ -1,5 +1,4 @@
 extentReports/
 target/
 test-output/
-
-
+logs/
